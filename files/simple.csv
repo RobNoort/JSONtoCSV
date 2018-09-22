@@ -1,0 +1,7 @@
+students.studentName;subjects.name;subjects.marks;students.Age;
+Rob Noort;English;40;12;
+;History;50;;
+Barry Newman;English;40;12;
+;History;50;;
+;Science;40;;
+Baz van de Veer;;empty array cant determine fields;12;
